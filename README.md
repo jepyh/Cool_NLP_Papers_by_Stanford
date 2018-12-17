@@ -1,5 +1,5 @@
 # Cool_NLP_Papers_by_Stanford
-斯坦福大学推荐的自然语言处理中一些有趣的论文  
+[斯坦福大学推荐](https://web.stanford.edu/class/cs224n/project.html)的自然语言处理中一些有趣的论文  
 在期末工程环节，斯坦福大学提供了一些有趣论文作为参考基点   
 The choose-your-own final project lets you explore a task or research idea you are excited about. You can choose any topic related to deep learning for NLP. To be precise: That means that the project should make substantive use of deep learning and substative use of human language data.    
 To inspire project ideas, here are some cool NLP papers:
