@@ -4,7 +4,7 @@
 The choose-your-own final project lets you explore a task or research idea you are excited about. You can choose any topic related to deep learning for NLP. To be precise: That means that the project should make substantive use of deep learning and substative use of human language data.    
 To inspire project ideas, here are some cool NLP papers:
 
-    Attention is All You Need
+    [Attention is All You Need](https://github.com/jepyh/Cool_NLP_Papers_by_Stanford/blob/master/01Attention%20is%20All%20You%20Need.pdf)
     Quasi-Recurrent Neural Networks
     Semi-supervised Sequence Learning
     A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks
